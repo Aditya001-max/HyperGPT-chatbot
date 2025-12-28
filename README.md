@@ -31,6 +31,7 @@ HyperGPT solves this by retrieving relevant documents first, then passing them t
 ---
 
 ## 🧩 Architecture Flow
+```
 ┌────────────┐
 │   User     │
 └─────┬──────┘
@@ -63,7 +64,10 @@ HyperGPT solves this by retrieving relevant documents first, then passing them t
 ┌───────────────┐
 │ User Answer   │
 └───────────────┘
+```
 ## 🛠️ Project Structure
+
+```
 HyperGPT-chatbot/
 ├── app/
 ├── components/ui/
@@ -78,6 +82,7 @@ HyperGPT-chatbot/
 ├── tailwind.config.ts
 ├── tsconfig.json
 └── README.md
+```
 ## ⚙️ Installation & Setup
 
 ### Clone Repository
